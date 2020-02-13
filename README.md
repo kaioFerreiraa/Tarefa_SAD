@@ -14,4 +14,4 @@ primeiro o passo a passo da instalação do pgadmin 4 no windows 10:
 
 ![alt text](https://github.com/kaioFerreiraa/Tarefa_SAD/blob/master/imagens/WhatsApp%20Image%202020-02-13%20at%2013.56.19%20(3).jpeg)
 
-![alt text](https://github.com/kaioFerreiraa/Tarefa_SAD/blob/master/imagens/WhatsApp%20Image%202020-02-13%20at%2013.56.19%20.jpeg)
+![alt text](https://github.com/kaioFerreiraa/Tarefa_SAD/blob/master/imagens/WhatsApp%20Image%202020-02-13%20at%2013.56.20.jpeg)
